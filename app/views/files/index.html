@@ -1,0 +1,16 @@
+<div ng-app="filesApp">
+
+  <div ng-controller="IndexCtrl">
+    <div class="topcoat-list__container">
+
+      <ul class="topcoat-list">
+        <li class="topcoat-list__item" hm-tap="open(files.title)" ng-repeat="files in filess">
+          Files: {{ files.title }}
+        </li>
+      </ul>
+
+    </div>
+
+  </div>
+
+</div>

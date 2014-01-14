@@ -1,0 +1,12 @@
+[
+  {
+    "files_id": 1,
+    "name": "First files",
+    "description": "This is awesome."
+  },
+  {
+    "files_id": 2,
+    "name": "Second files",
+    "description": "This is also okay."
+  }
+]
